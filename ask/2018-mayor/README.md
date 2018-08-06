@@ -2,7 +2,7 @@
 
 ## Candidate Popular Questions
 
-各城市下各候選人相關之最熱門提問
+各城市下各參選人相關之最熱門提問
 
 ### 資料位置
 
