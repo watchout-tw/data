@@ -15,12 +15,12 @@
 
 ### 資料位置
 
-- [台北市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-taipei-candidate-popular-questions.json)
-- [新北市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-new-taipei-candidate-popular-questions.json)
-- [桃園市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-taoyuan-candidate-popular-questions.json)
-- [台中市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-taichung-candidate-popular-questions.json)
-- [台南市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-tainan-candidate-popular-questions.json)
-- [高雄市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-kaohsiung-candidate-popular-questions.json)
+- [台北市](https://data.watchout.tw/ask/2018-mayor/2018-taipei-candidate-popular-questions.json)
+- [新北市](https://data.watchout.tw/ask/2018-mayor/2018-new-taipei-candidate-popular-questions.json)
+- [桃園市](https://data.watchout.tw/ask/2018-mayor/2018-taoyuan-candidate-popular-questions.json)
+- [台中市](https://data.watchout.tw/ask/2018-mayor/2018-taichung-candidate-popular-questions.json)
+- [台南市](https://data.watchout.tw/ask/2018-mayor/2018-tainan-candidate-popular-questions.json)
+- [高雄市](https://data.watchout.tw/ask/2018-mayor/2018-kaohsiung-candidate-popular-questions.json)
 
 ### 資料格式說明
 
