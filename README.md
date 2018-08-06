@@ -54,4 +54,4 @@
 }
 ```
 
-[註1] : [議題類別清單API](https://core.watchout.tw/park/topics?type=watchout)
+[註1]:[議題類別清單API](https://core.watchout.tw/park/topics?type=watchout)
