@@ -1,4 +1,4 @@
-# Feed Of Wathcout ASK
+# Data Of Wathcout ASK
 
 ## Candidate Popular Questions
 
@@ -6,12 +6,12 @@
 
 ### 資料位置
 
-- [台北市](https://feed.watchout.tw/ask/candidate-popular-questions/2018-taipei-candidate-popular-questions.json)
-- [新北市](https://feed.watchout.tw/ask/candidate-popular-questions/2018-new-taipei-candidate-popular-questions.json)
-- [桃園市](https://feed.watchout.tw/ask/candidate-popular-questions/2018-taoyuan-candidate-popular-questions.json)
-- [台中市](https://feed.watchout.tw/ask/candidate-popular-questions/2018-taichung-candidate-popular-questions.json)
-- [台南市](https://feed.watchout.tw/ask/candidate-popular-questions/2018-tainan-candidate-popular-questions.json)
-- [高雄市](https://feed.watchout.tw/ask/candidate-popular-questions/2018-kaohsiung-candidate-popular-questions.json)
+- [台北市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-taipei-candidate-popular-questions.json)
+- [新北市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-new-taipei-candidate-popular-questions.json)
+- [桃園市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-taoyuan-candidate-popular-questions.json)
+- [台中市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-taichung-candidate-popular-questions.json)
+- [台南市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-tainan-candidate-popular-questions.json)
+- [高雄市](https://data.watchout.tw/ask/2018-mayor/candidate-popular-questions/2018-kaohsiung-candidate-popular-questions.json)
 
 ### 資料格式說明
 
@@ -21,7 +21,7 @@
 }
   "formatVersion": "資料格式版本號碼", //資料格式版本號碼
   "lastBuildDate": 1533522837782, //資料最後更新時間
-  "uuid": "ask-candidatePopularQuestions-2018-taichung-1533522837782", //資料uuid
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taichung-1533522837782", //資料uuid
   "data": [
     {
       "candidate": { //參選人資料
@@ -45,4 +45,4 @@
 }
 ```
 
-[註1] : [議題類別清單API](https://core.watchout.tw/park/topics?type=watchout)
+註1: [議題類別清單API](https://core.watchout.tw/park/topics?type=watchout)
