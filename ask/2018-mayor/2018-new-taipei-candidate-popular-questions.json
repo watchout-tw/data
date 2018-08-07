@@ -1,11 +1,12 @@
 {
-  "formatVersion": "1.0.0",
-  "lastBuildDate": 1533527686522,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-new-taipei-1533527686522",
+  "formatVersion": "1.0.1",
+  "lastBuildDate": 1533652648043,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-new-taipei-1533652648043",
   "data": [
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/841",
+        "id": 841,
         "name": "蘇貞昌",
         "party": {
           "name": "民主進步黨",
@@ -99,6 +100,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/843",
+        "id": 843,
         "name": "侯友宜",
         "party": {
           "name": "中國國民黨",

@@ -1,11 +1,12 @@
 {
-  "formatVersion": "1.0.0",
-  "lastBuildDate": 1533527686517,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taipei-1533527686518",
+  "formatVersion": "1.0.1",
+  "lastBuildDate": 1533652648038,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taipei-1533652648038",
   "data": [
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/208",
+        "id": 208,
         "name": "柯文哲",
         "party": {
           "name": "無黨籍",
@@ -99,6 +100,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/823",
+        "id": 823,
         "name": "姚文智",
         "party": {
           "name": "民主進步黨",
@@ -192,6 +194,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/825",
+        "id": 825,
         "name": "丁守中",
         "party": {
           "name": "中國國民黨",
@@ -285,6 +288,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/827",
+        "id": 827,
         "name": "蘇煥智",
         "party": {
           "name": "無黨籍",
@@ -378,6 +382,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/829",
+        "id": 829,
         "name": "李錫錕",
         "party": {
           "name": "無黨籍",
@@ -471,6 +476,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/831",
+        "id": 831,
         "name": "邱文祥",
         "party": {
           "name": "無黨籍",
@@ -564,6 +570,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/833",
+        "id": 833,
         "name": "鄭伊廷",
         "party": {
           "name": "無黨籍",
@@ -657,6 +664,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/835",
+        "id": 835,
         "name": "范雲",
         "party": {
           "name": "無黨籍",
@@ -750,6 +758,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/837",
+        "id": 837,
         "name": "古文發",
         "party": {
           "name": "無黨籍",
@@ -843,6 +852,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/839",
+        "id": 839,
         "name": "許純美",
         "party": {
           "name": "無黨籍",

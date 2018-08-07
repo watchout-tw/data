@@ -1,11 +1,12 @@
 {
-  "formatVersion": "1.0.0",
-  "lastBuildDate": 1533527686530,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-kaohsiung-1533527686530",
+  "formatVersion": "1.0.1",
+  "lastBuildDate": 1533652648052,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-kaohsiung-1533652648052",
   "data": [
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/859",
+        "id": 859,
         "name": "陳其邁",
         "party": {
           "name": "民主進步黨",
@@ -99,6 +100,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/861",
+        "id": 861,
         "name": "韓國瑜",
         "party": {
           "name": "中國國民黨",
@@ -192,6 +194,7 @@
     {
       "candidate": {
         "url": "https://park.watchout.tw/personas/863",
+        "id": 863,
         "name": "吳益政",
         "party": {
           "name": "無黨籍",
