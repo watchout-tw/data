@@ -2,6 +2,12 @@
 
 ## Release Notes
 
+### 2018-08-08
+
+- 發佈資料格式版本 v1.0.1
+  - 於 `candidate` 中新增 `id` 欄位
+- 新增 ASK「六都綜合」資料集
+
 ### 2018-08-06
 
 - 發佈資料格式版本 v1.0.0
@@ -15,6 +21,7 @@
 
 ### 資料位置
 
+- [六都綜合](https://data.watchout.tw/ask/2018-mayor/2018-6du-candidate-popular-questions.json)
 - [台北市](https://data.watchout.tw/ask/2018-mayor/2018-taipei-candidate-popular-questions.json)
 - [新北市](https://data.watchout.tw/ask/2018-mayor/2018-new-taipei-candidate-popular-questions.json)
 - [桃園市](https://data.watchout.tw/ask/2018-mayor/2018-taoyuan-candidate-popular-questions.json)
@@ -35,6 +42,7 @@
     {
       "candidate": { // 參選人資料
         "url": "https://park.watchout.tw/personas/218", // 參選人個人頁面
+        "id": 218, //參選人ID
         "name": "林佳龍", // 參選人姓名
         "party": { // 參選人所屬政黨資訊
           "name": "民主進步黨", // 所屬政黨名稱
