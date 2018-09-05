@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.0.1",
-  "lastBuildDate": 1536130812698,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taoyuan-1536130812698",
+  "lastBuildDate": 1536134412740,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taoyuan-1536134412740",
   "data": [
     {
       "candidate": {
@@ -243,6 +243,32 @@
             "threshold": 100
           }
         ]
+      }
+    },
+    {
+      "candidate": {
+        "url": "https://park.watchout.tw/personas/2494",
+        "id": 2494,
+        "name": "吳富彤",
+        "party": {
+          "name": "無黨籍",
+          "abbreviation": "無黨籍",
+          "color": "#C3C3C3"
+        },
+        "questions": []
+      }
+    },
+    {
+      "candidate": {
+        "url": "https://park.watchout.tw/personas/2496",
+        "id": 2496,
+        "name": "楊麗環",
+        "party": {
+          "name": "無黨籍",
+          "abbreviation": "無黨籍",
+          "color": "#C3C3C3"
+        },
+        "questions": []
       }
     }
   ]

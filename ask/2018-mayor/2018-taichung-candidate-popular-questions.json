@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.0.1",
-  "lastBuildDate": 1536130812699,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taichung-1536130812699",
+  "lastBuildDate": 1536134412740,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taichung-1536134412740",
   "data": [
     {
       "candidate": {
@@ -189,6 +189,19 @@
             "threshold": 100
           }
         ]
+      }
+    },
+    {
+      "candidate": {
+        "url": "https://park.watchout.tw/personas/2488",
+        "id": 2488,
+        "name": "宋原通",
+        "party": {
+          "name": "無黨籍",
+          "abbreviation": "無黨籍",
+          "color": "#C3C3C3"
+        },
+        "questions": []
       }
     }
   ]

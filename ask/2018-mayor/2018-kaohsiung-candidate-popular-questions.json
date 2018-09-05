@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.0.1",
-  "lastBuildDate": 1536130812700,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-kaohsiung-1536130812700",
+  "lastBuildDate": 1536134412742,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-kaohsiung-1536134412742",
   "data": [
     {
       "candidate": {
@@ -189,6 +189,32 @@
             "threshold": 100
           }
         ]
+      }
+    },
+    {
+      "candidate": {
+        "url": "https://park.watchout.tw/personas/2486",
+        "id": 2486,
+        "name": "璩美鳳",
+        "party": {
+          "name": "無黨籍",
+          "abbreviation": "無黨籍",
+          "color": "#C3C3C3"
+        },
+        "questions": []
+      }
+    },
+    {
+      "candidate": {
+        "url": "https://park.watchout.tw/personas/2490",
+        "id": 2490,
+        "name": "蘇盈貴",
+        "party": {
+          "name": "無黨籍",
+          "abbreviation": "無黨籍",
+          "color": "#C3C3C3"
+        },
+        "questions": []
       }
     }
   ]

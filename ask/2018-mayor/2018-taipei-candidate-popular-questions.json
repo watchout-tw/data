@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.0.1",
-  "lastBuildDate": 1536130812693,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taipei-1536130812693",
+  "lastBuildDate": 1536134412737,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taipei-1536134412737",
   "data": [
     {
       "candidate": {
@@ -377,6 +377,19 @@
             "threshold": 250
           }
         ]
+      }
+    },
+    {
+      "candidate": {
+        "url": "https://park.watchout.tw/personas/2492",
+        "id": 2492,
+        "name": "吳蕚洋",
+        "party": {
+          "name": "無黨籍",
+          "abbreviation": "無黨籍",
+          "color": "#C3C3C3"
+        },
+        "questions": []
       }
     }
   ]
