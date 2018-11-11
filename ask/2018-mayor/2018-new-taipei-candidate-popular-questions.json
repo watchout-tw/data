@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.0.1",
-  "lastBuildDate": 1541959274229,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-new-taipei-1541959274229",
+  "lastBuildDate": 1541962868185,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-new-taipei-1541962868185",
   "data": [
     {
       "candidate": {
@@ -75,7 +75,7 @@
             "topic": "交通運輸",
             "title": "根本做不到車種分流,為何不改成車速分流?",
             "content": "車種分流根本只是限制機車族能行駛的道路範圍,汽車根本可以任意開進慢車道,這種措施根本行不通",
-            "push": 95,
+            "push": 96,
             "threshold": 100
           },
           {
@@ -169,7 +169,7 @@
             "topic": "交通運輸",
             "title": "根本做不到車種分流,為何不改成車速分流?",
             "content": "車種分流根本只是限制機車族能行駛的道路範圍,汽車根本可以任意開進慢車道,這種措施根本行不通",
-            "push": 95,
+            "push": 96,
             "threshold": 100
           },
           {
