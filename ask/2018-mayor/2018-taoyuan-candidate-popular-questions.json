@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.0.1",
-  "lastBuildDate": 1542024072365,
-  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taoyuan-1542024072365",
+  "lastBuildDate": 1542027670789,
+  "uuid": "ask-2018-mayor-candidatePopularQuestions-2018-taoyuan-1542027670789",
   "data": [
     {
       "candidate": {
@@ -91,7 +91,7 @@
             "topic": "環境能源",
             "title": "桃園的工業區污染問題",
             "content": "目前的排放量、進度等等有沒有辦法公開？",
-            "push": 79,
+            "push": 80,
             "threshold": 100
           }
         ]
@@ -185,7 +185,7 @@
             "topic": "環境能源",
             "title": "桃園的工業區污染問題",
             "content": "目前的排放量、進度等等有沒有辦法公開？",
-            "push": 79,
+            "push": 80,
             "threshold": 100
           }
         ]
@@ -279,7 +279,7 @@
             "topic": "環境能源",
             "title": "桃園的工業區污染問題",
             "content": "目前的排放量、進度等等有沒有辦法公開？",
-            "push": 79,
+            "push": 80,
             "threshold": 100
           }
         ]
@@ -373,7 +373,7 @@
             "topic": "環境能源",
             "title": "桃園的工業區污染問題",
             "content": "目前的排放量、進度等等有沒有辦法公開？",
-            "push": 79,
+            "push": 80,
             "threshold": 100
           }
         ]
@@ -467,7 +467,7 @@
             "topic": "環境能源",
             "title": "桃園的工業區污染問題",
             "content": "目前的排放量、進度等等有沒有辦法公開？",
-            "push": 79,
+            "push": 80,
             "threshold": 100
           }
         ]
